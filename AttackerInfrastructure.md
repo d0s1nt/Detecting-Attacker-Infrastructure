@@ -1,5 +1,12 @@
 ## Detecting Attacking Infrastructure via Hashes
 
+#### `TrueBot`
+- Shodan
+  - http.html_hash:[374692906](https://www.shodan.io/search?query=http.html_hash%3A374692906)
+- Censys
+  - services.http.response.body_hash="sha1:4516386e35faf4afafd56046d6c9a51bc8810f74"
+
+
 #### `Deimos C2`
 - Shodan
   - http.html_hash:[-14029177](https://www.shodan.io/search?query=http.html_hash%3A-14029177)
